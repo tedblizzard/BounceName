@@ -1,7 +1,7 @@
 /*
 note
 */
-var myname="Olivia Blizzard";
+var myname="Blizzard";
 // document.write("Hello !");
 var red = [0,100,62];
 var orange = [40,100,60];
